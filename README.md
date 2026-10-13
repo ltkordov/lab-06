@@ -1,11 +1,11 @@
 # CMPUT 301: Lab 6 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Logan Kordov`
+- **CCID:** `ltkordov`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+The Lab 6 Slides, and N/A otherwise.
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
